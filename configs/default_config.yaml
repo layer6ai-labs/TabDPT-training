@@ -7,7 +7,7 @@ exp_path: ''
 
 env:
   device: 'cuda:0'
-  gpus: [0, 1]
+  gpus: [0]
   num_workers: 32
 
 model:
